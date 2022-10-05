@@ -6,4 +6,4 @@ a COVID-19 data is preprocessed with and without MPI. We analyze the results of 
 
 Below is the system design
 
-![System Design](SYSTEM DESIGN FOR PROJECT-1.jpg)
+![System Design](Figures/system_design.jpg)
