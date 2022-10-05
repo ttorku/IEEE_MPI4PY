@@ -7,3 +7,8 @@ a COVID-19 data is preprocessed with and without MPI. We analyze the results of 
 Below is the system design
 
 ![System Design](Figures/system_design.jpg)
+
+
+Our github page is https://github.com/ttorku/CSCI_6330_project
+
+Data can be downloaded from https://www.tn.gov/health/cedep/ncov/data/downloadable-datasets.html
