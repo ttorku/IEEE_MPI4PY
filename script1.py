@@ -13,6 +13,6 @@ size = comm.size
 name = MPI.Get_processor_name()
 if rank == 0:
     #start = process_time()
-    data_process(data, scaler, "no")  #unscaled
+    tt, II, RR=data_process(data, scaler, "no")  #unscaled
     print("rank0 finished")
 #get the start time
