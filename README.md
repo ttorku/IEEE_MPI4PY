@@ -22,7 +22,7 @@ The step by step process to run our code:
 
 Below is the system design
 
-![System Design](Figures/SYSTEM DESIGN FOR PROJECT-1.png)
+![System Design](Figures/sys_design.png)
 
 
 Our github page is https://github.com/ttorku/CSCI_6330_project
