@@ -1,6 +1,6 @@
-# CSCI_6330_project
+# IEEE_MPI4PY
 
-This project entails application of parallel processing techniques to data preprocessing and modelling.
+This paper entails application of parallel processing techniques to data preprocessing and modelling.
 A popular python library MPI4Py is deployed to speed up the preprocessing of data. For comparative analysis, 
 a COVID-19 data is preprocessed with and without MPI. We analyze the results of the two scenarios.
 
